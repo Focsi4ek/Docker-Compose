@@ -81,7 +81,7 @@ docker compose up -d
 docker compose ps
 
 
-![](01-docker-compose-ps.png) 
+![](01_docker_compose_ps.png) 
 
 
 Проверка готовности базы данных к подключениям:
@@ -89,7 +89,7 @@ docker compose ps
 docker compose logs db
 
 
-![](04-mariadb-logs.png) 
+![](04_mariadb_logs.png) 
 
 
 4. Процесс установки и настройки Joomla
@@ -110,10 +110,10 @@ docker compose logs db
 
 Результаты установки:
 
-![](02-joomla-frontend.png)
+![](02_joomla_frontend.png)
 
 
-![](03-joomla-admin-dashboard.png) 
+![](03_joomla_admin_dashboard.png) 
 
 5. Полезные команды управления
 
