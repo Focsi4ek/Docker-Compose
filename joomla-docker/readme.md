@@ -117,7 +117,7 @@
 
 ### Результат запуска
 
-![Статус Docker Compose](01-docker-compose-ps.png)
+![Статус Docker Compose](01_Terminal_Status_Abramov_D_S.png)
 
 ---
 
@@ -129,7 +129,7 @@
 
 В логах можно убедиться, что сервер MariaDB успешно запущен и готов принимать подключения.
 
-![Логи MariaDB](04-mariadb-logs.png)
+![Логи MariaDB](04_MariaDB_Logs_Abramov_D_S.png)
 
 ---
 
@@ -181,7 +181,7 @@
 
 ### Главная страница Joomla
 
-![Главная страница Joomla](02-joomla-frontend.png)
+![Главная страница Joomla](02_Joomla_Frontend_Abramov_D_S.png)
 
 ### Панель администратора
 
@@ -189,7 +189,7 @@
 
 [http://localhost:8082/administrator](http://localhost:8082/administrator)
 
-![Панель администратора Joomla](03-joomla-admin-dashboard.png)
+![Панель администратора Joomla](03_Joomla_Admin_Abramov_D_S.png)
 
 ---
 
